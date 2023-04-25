@@ -27,6 +27,7 @@
 		"typescript": "4.7.4"
 	},
 	"dependencies": {
-		"code-block-judge": "^1.0.5"
+		"code-block-judge": "^1.0.5",
+		"enhanced-editor": "^1.0.4"
 	}
 }
