@@ -15,7 +15,7 @@
 		"modify"
 	],
 	"author": "qql1",
-	"license": "MIT",
+	"license": "GPL-3.0",
 	"devDependencies": {
 		"@types/node": "^16.11.6",
 		"@typescript-eslint/eslint-plugin": "5.29.0",
